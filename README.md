@@ -2,7 +2,8 @@
 <ul>
     <li> Análise e Desenvolvimento de Sistemas 
 </ul>
-
+<br>
+<a href="https://portifolio-caio.netlify.app/">Meu portifólio</a>
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caio-azeredo-6a0915138/)
 
 ![Caio's GitHub stats](https://github-readme-stats.vercel.app/api?username=CaioVAzeredo&show_icons=true&theme=dracula)
