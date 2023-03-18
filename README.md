@@ -2,8 +2,8 @@
 <ul>
     <li> Análise e Desenvolvimento de Sistemas 
 </ul>
-
-[![g-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](caio.viana.39@gmail.com)[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]: caio.viana.39@gmail.com
+<a href="mailto:caio.viana.39@gmail.com">
+[![g-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](caio.viana.39@gmail.com)[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]</a>
 
 ![Caio's GitHub stats](https://github-readme-stats.vercel.app/api?username=CaioVAzeredo&show_icons=true&theme=dracula)
 
