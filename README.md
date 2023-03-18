@@ -2,7 +2,7 @@
 <ul>
     <li> Análise e Desenvolvimento de Sistemas 
 </ul>
-<a href="mailto:caio.viana.39@gmail.com">E-mail</a>
+
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caio-azeredo-6a0915138/)
 
 ![Caio's GitHub stats](https://github-readme-stats.vercel.app/api?username=CaioVAzeredo&show_icons=true&theme=dracula)
