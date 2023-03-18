@@ -1,4 +1,4 @@
-### Olá! eu sou o Caio V. Azereddo.
+### Olá! eu sou o Caio V. Azeredo.
 <a href="https://portifolio-caio.netlify.app/">Meu portifólio</a>
 <ul>
     <li> Análise e Desenvolvimento de Sistemas 
