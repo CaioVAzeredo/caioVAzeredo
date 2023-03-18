@@ -4,7 +4,7 @@
     <li>  
 </ul>
 
-[![g-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://www.linkedin.com/in/caio-azeredo-6a0915138/)[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](caio.viana.39@gmail.com)
+[![g-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](caio.viana.39@gmail.com)[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caio-azeredo-6a0915138/)
 
 ![Caio's GitHub stats](https://github-readme-stats.vercel.app/api?username=CaioVAzeredo&show_icons=true&theme=dracula)
 
