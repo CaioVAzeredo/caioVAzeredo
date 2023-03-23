@@ -2,7 +2,8 @@
 <a href="https://portifolio-caio.netlify.app/">Meu portifólio</a>
 <br>
 <ul>
-    <li> Estudante de Análise e Desenvolvimento de Sistemas pela UCB
+    <li> Estudante de Análise e Desenvolvimento de Sistemas pela UCB;
+    <li> Desenvolvedor Full-Stack;
 </ul>
 <br>
 
