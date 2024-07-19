@@ -1,7 +1,8 @@
 ### Olá! eu sou o Caio V. Azeredo.
 <br>
 <ul>
-    <li> Estudante de Análise e Desenvolvimento de Sistemas pela UCB;
+    <li> Pós-graduando em desenvolvimento Full-Stack pelo CEUB;
+    <li> Analista de Sistemas pela UCB;
     <li> Desenvolvedor Full-Stack;
 </ul>
 <br>
